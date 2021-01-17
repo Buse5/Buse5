@@ -8,6 +8,7 @@ Have I been asked about voluntary communication in the  <a href="https://www.tho
 
 [![Linkedin: BuseYalcin](https://img.shields.io/badge/-BuseYalcin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BuseYalcin/)](https://www.linkedin.com/in/buse-yal%C3%A7%C4%B1n-b41257178/)
 [![GitHub Buse5](https://img.shields.io/github/followers/Buse5?label=follow&style=social)](https://github.com/Buse5)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/14570742/buse-yal%c3%a7%c4%b1n)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -29,7 +30,9 @@ const Buse = {
 
 
 ![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=Buse5&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buse5&show_icons=true)
 
+<br><br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
 
