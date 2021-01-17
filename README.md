@@ -14,7 +14,7 @@ Have I been asked about voluntary communication in the  <a href="https://www.tho
 
 ```javascript
 const Buse = {
-  pronouns: "she" | "her",
+  pronouns: "she",
   code: [Java, C#, HTML, CSS, PHP, Python],
   tools: [Flutter, OpenCV, SQL, FireBase],
   architecture: ["microservices", "event-driven", "design system pattern"],
