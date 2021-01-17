@@ -29,13 +29,11 @@ const Buse = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=sidbelbase&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
+![sidbelbase's github stats](https://github-readme-stats.vercel.app/api username=Buse5&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
 
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
+![](https://visitor-badge.glitch.me/badge?page_id=Buse5)
 
-![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
-
-<p align="center"><a href="https://github.com/sidbelbase">
+<p align="center"><a href="https://github.com/Buse5">
 ---
 
 ⭐️ From [@Buse5](https://github.com/Buse5)
