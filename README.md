@@ -12,12 +12,9 @@ githubUsername: 'Buse5'
 Have I been asked about voluntary communication in the  <a href="https://www.thoughtworks.com">Code for Goodness Team</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: BuseYalçın](https://www.linkedin.com/in/buse-yal%C3%A7%C4%B1n-b41257178/)
-[![GitHub Buse5](https://github.com/Buse5)
-[![StackOverFlow Buse5](https://stackoverflow.com/users/14570742/buse-yal%c3%a7%c4%b1n)
 
 [![Linkedin: BuseYalcin](https://img.shields.io/badge/-BuseYalcin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BuseYalcin/)](https://www.linkedin.com/in/buse-yal%C3%A7%C4%B1n-b41257178/)
-[![GitHub Buse5](https://img.shields.io/github/followers/Buse5?label=follow&style=social)](https://github.com/Buse)
+[![GitHub Buse5](https://img.shields.io/github/followers/Buse5?label=follow&style=social)](https://github.com/Buse5)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -40,4 +37,4 @@ const Buse = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Buse5](https://github.com/Buse5)
