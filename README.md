@@ -1,10 +1,3 @@
----
-title: Thaiane
-date: '2020-14-05'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'Buse5'
----
 
 <h2> Hi, I'm Buse Yalçın! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -36,6 +29,13 @@ const Buse = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=sidbelbase&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
+
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/sidbelbase/sidbelbase/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
+
+<p align="center"><a href="https://github.com/sidbelbase">
 ---
 
 ⭐️ From [@Buse5](https://github.com/Buse5)
