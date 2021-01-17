@@ -16,9 +16,8 @@ Have I been asked about voluntary communication in the  <a href="https://www.tho
 [![GitHub Buse5](https://github.com/Buse5)
 [![StackOverFlow Buse5](https://stackoverflow.com/users/14570742/buse-yal%c3%a7%c4%b1n)
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: BuseYalcin](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BuseYalcin/)](https://www.linkedin.com/in/buse-yal%C3%A7%C4%B1n-b41257178/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: BuseYalcin](https://img.shields.io/badge/-BuseYalcin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BuseYalcin/)](https://www.linkedin.com/in/buse-yal%C3%A7%C4%B1n-b41257178/)
+[![GitHub Buse5](https://img.shields.io/github/followers/Buse5?label=follow&style=social)](https://github.com/Buse)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
