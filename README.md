@@ -28,7 +28,7 @@ const Buse = {
 ```
 
 
-![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=sidbelbase&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
+![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=Buse5&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
