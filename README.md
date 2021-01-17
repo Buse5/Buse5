@@ -35,7 +35,6 @@ const Buse = {
 
 <br><br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sidbelbase)
 
 <p align="center"><a href="https://github.com/sidbelbase">
 ---
