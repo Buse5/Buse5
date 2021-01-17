@@ -30,6 +30,7 @@ const Buse = {
 
 
 ![sidbelbase's github stats](https://github-readme-stats.vercel.app/api?username=Buse5&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
+<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buse5&show_icons=true)
 
 <br><br>
