@@ -9,7 +9,7 @@ githubUsername: 'Buse5'
 <h2> Hi, I'm Buse Yalçın! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">Kırıkkale University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Have I been asked about voluntary communication in the  <a href="https://www.thoughtworks.com">Code for Goodness Team</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Have I been asked about voluntary communication in the  <a href="https://www.thoughtworks.com">İyilik İçin Kodla</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -24,12 +24,13 @@ const Buse = {
   code: [Java, C#, HTML, CSS, PHP, Python],
   tools: [Flutter, OpenCV, SQL, FireBase],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+  aboutMe: {
+                        languages:"English","German",
+                        volunteer: "İyilik İçin Kodla", "Gelişim Kuşağı",
+                        course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
+                        community:"Software development partnership at Kırkkale University",
+
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
