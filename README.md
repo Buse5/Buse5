@@ -2,7 +2,9 @@
 <h2> Hi, I'm Buse Yalçın! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Computer Enginner at <a href="http://www.unb.br">Kırıkkale University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+  
 Have I been asked about voluntary communication in the  <a href="https://www.thoughtworks.com">İyilik İçin Kodla</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 I'm writing in medium : <a href="https://www.thoughtworks.com"></a>https://bsseylcin.medium.com/<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
