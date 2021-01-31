@@ -5,7 +5,8 @@
   
 Have I been asked about voluntary communication in the  <a href="https://www.thoughtworks.com">İyilik İçin Kodla</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-I'm writing in medium : <a href="https://www.thoughtworks.com"></a>https://bsseylcin.medium.com/<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>https://bsseylcin.medium.com/<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+My Hackerrank Link : <a href="https://www.thoughtworks.com"></a>https://www.hackerrank.com/besb_5834<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
