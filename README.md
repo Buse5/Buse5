@@ -20,8 +20,8 @@ My Hackerrank Link : <a href="https://www.thoughtworks.com"></a>https://www.hack
 ```javascript
 const Buse = {
   pronouns: "she",
-  code: [Java, C#, HTML, CSS, PHP, Python],
-  tools: [Flutter, OpenCV, SQL, FireBase],
+  code: ["Java", "C#", "HTML", "CSS", "PHP", "Python"]
+  tools: ["Flutter", "OpenCV", "SQL", "FireBase"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   aboutMe: {
                         languages:"English","German",
