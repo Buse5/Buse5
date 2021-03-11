@@ -20,14 +20,15 @@ My Hackerrank Link : <a href="https://www.thoughtworks.com"></a>https://www.hack
 ```javascript
 const Buse = {
   pronouns: "she",
-  code: ["Java", "C#", "HTML", "CSS", "PHP", "Python"]
+  code: ["Java", "C#", "HTML", "CSS", "PHP", "Python", .NetCore]
   tools: ["Flutter", "OpenCV", "SQL", "FireBase"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   aboutMe: {
                         languages:"English","German",
-                        volunteer: "İyilik İçin Kodla", "Gelişim Kuşağı",
+                        volunteer: "İyilik İçin Kodla", 
                         course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
                         community:"Software development partnership at Kırkkale University",
+                        Intern:"Aztek software company, Misha software company"
 
                       },
 }
