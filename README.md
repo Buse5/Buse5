@@ -28,7 +28,7 @@ const Buse = {
                         volunteer: "İyilik İçin Kodla", 
                         course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
                         community:"Software development partnership at Kırkkale University",
-                        intern:"Aztek software company, Misha software company, Bt Bilgi Teknolojileri"
+                        intern:"Aztek software company, Misha software company, Bt Bilgi Teknolojileri",
                         work: "Software Developer at Şekerbank"
                       },
 }
