@@ -36,6 +36,7 @@ Have I been asked about voluntary communication in the  <a href="https://www.iyi
 
 <p>
 <a href="https://www.mysql.com/" target="_blank"><img alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.oracle.com/" target="_blank"><img alt="oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;  
 <a href="https://www.postgresql.org" target="_blank"><img alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="mssql" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://firebase.google.com/" target="_blank"><img alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
@@ -43,10 +44,11 @@ Have I been asked about voluntary communication in the  <a href="https://www.iyi
 <a href="https://www.docker.com/" target="_blank"><img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank"><img alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
- <a href="https://opencv.org/" target="_blank"><img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://opencv.org/" target="_blank"><img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://postman.com" target="_blank"><img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.rabbitmq.com" target="_blank"><img alt="rabbitMQ" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"><img alt="dotnet" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/dotnet.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank"><img alt="boostrap" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/bootstrap.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p>&nbsp;</p>
 
