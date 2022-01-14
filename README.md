@@ -6,9 +6,6 @@ Have I been asked about voluntary communication in the  <a href="https://www.iyi
 
 I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>https://bsseylcin.medium.com/<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-My Hackerrank Link : <a href="https://www.thoughtworks.com"></a>https://www.hackerrank.com/buse5?hr_r=1<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
-</em></p>
-
 <h3>Connect with me:</h3>
 
 <p>
@@ -17,10 +14,7 @@ My Hackerrank Link : <a href="https://www.thoughtworks.com"></a>https://www.hack
   <a href="https://www.instagram.com/coderrwoman/" target="blank"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:40px; width:40px" />
  </a>
 
-  <a href="https://www.instagram.com/coderrwoman/" target="blank"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" style="height:40px; width:40px" />
- </a>
-  
-  <a href="https://www.hackerrank.com/buse5?hr_r=1 target="blank"><img alt="buse5?hr_r=1" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="height:40px; width:40px" />
+    <a href="https://www.hackerrank.com/buse5?hr_r=1/" target="blank"><img alt="buse5?hr_r=1" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="height:40px; width:40px" />
  </a>
 </p>
 
