@@ -9,6 +9,15 @@ I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>https://bssey
 My Hackerrank Link : <a href="https://www.thoughtworks.com"></a>https://www.hackerrank.com/buse5?hr_r=1<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
+<h3>Connect with me:</h3>
+
+<p>
+<a href="https://www.linkedin.com/in/buse-yal%C3%A7%C4%B1n-b41257178/" target="_blank"><img alt="buse-yal%C3%A7%C4%B1n-b41257178" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;
+<a href="https://www.instagram.com/coderrwoman/" target="blank"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:40px; width:40px" />
+ </a>
+  <a href="https://www.instagram.com/coderrwoman/" target="blank"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" style="height:40px; width:40px" />
+ </a>
+</p>
 
 [![Linkedin: BuseYalcin](https://img.shields.io/badge/-BuseYalcin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BuseYalcin/)](https://www.linkedin.com/in/buse-yal%C3%A7%C4%B1n-b41257178/)
 [![GitHub Buse5](https://img.shields.io/github/followers/Buse5?label=follow&style=social)](https://github.com/Buse5)
