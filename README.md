@@ -42,7 +42,6 @@ Have I been asked about voluntary communication in the  <a href="https://www.iyi
 <a href="https://firebase.google.com/" target="_blank"><img alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://redis.io" target="_blank"><img alt="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cs/" target="_blank"><img alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://opencv.org/" target="_blank"><img alt="opencv" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://postman.com" target="_blank"><img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
