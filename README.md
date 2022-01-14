@@ -14,7 +14,10 @@ I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>https://bssey
   <a href="https://www.instagram.com/coderrwoman/" target="blank"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:40px; width:40px" />
  </a>
 
-    <a href="https://www.hackerrank.com/buse5?hr_r=1/" target="blank"><img alt="buse5?hr_r=1" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="height:40px; width:40px" />
+    <a href="https://www.hackerrank.com/buse5?hr_r=1" target="blank"><img alt="buse5?hr_r=1" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="height:40px; width:40px" />
+ </a>
+  
+    <a href="https://bsseylcin.medium.com/" target="blank"><img alt="coderrwoman" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:40px; width:40px" />
  </a>
 </p>
 
