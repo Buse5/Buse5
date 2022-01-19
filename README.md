@@ -53,8 +53,7 @@ Volunteer work (Communication Officer): <a href="https://www.iyilikicinkodla.com
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![BuseYacin's github stats](https://github-readme-stats.vercel.app/api?username=Buse5&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Buse5/github-readme-stats)
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buse5&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/Buse5/github-readme-stats)|
+|[![BuseYacin's github stats](https://github-readme-stats.vercel.app/api?username=Buse5&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Buse5/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buse5&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/Buse5/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=Buse5)||
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Buse5&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buse5&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
