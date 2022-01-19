@@ -52,5 +52,5 @@ Volunteer work (Communication Officer): <a href="https://www.iyilikicinkodla.com
 <p>&nbsp;</p>
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Buse5&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buse5&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buse5&layout=compact)](https://github.com/Buse5/github-readme-stats)
 ---
