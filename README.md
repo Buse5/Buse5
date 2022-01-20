@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em><a href="https://buse5.github.io/">My Personal Web Site</a><img src="" width="30"></br>
+<p><em><a href="https://buse5.github.io/">My Personal Web Site</a></br>
   
 <p><em>I graduated from <a href="https://kku.edu.tr/Anasayfa">Kırıkkale University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
   
